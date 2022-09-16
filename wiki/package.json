@@ -1,14 +1,14 @@
 {
-  "name": "c--course",
+  "name": "ai-course",
   "version": "1.0.0",
-  "description": "spark 教程",
+  "description": "AI 教程",
   "main": "index.js",
   "scripts": {
-    "deploy": "gitbook build && gh-pages -d _book"
+    "deploy": "gh-pages -d _book"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hermesfuxi/spark-course.git"
+    "url": "git+https://github.com/Hermesfuxi/ai-course.git"
   },
   "keywords": [
     "建议使用 node v13.5.0"
@@ -16,9 +16,9 @@
   "author": "hermesfuxi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hermesfuxi/spark-course/issues"
+    "url": "https://github.com/Hermesfuxi/ai-course/issues"
   },
-  "homepage": "https://github.com/Hermesfuxi/spark-course#readme",
+  "homepage": "https://github.com/Hermesfuxi/ai-course#readme",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }

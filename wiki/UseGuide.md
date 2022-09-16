@@ -25,3 +25,13 @@ gitbook serve # 端口被占用的话，需要添加 --port 12333 之类
 # 推送到 gh-pages 分支
 npm run deploy
 ```
+
+## 三、git commit message
+git type:
+* feat 新功能
+* fix 修复bug
+* docs 文档更新
+* style 代码格式更新
+* refactor 重构代码
+* test 测试内容提交
+* ci 自动构建变化
